@@ -1,5 +1,16 @@
+
+
 body{
     text-align: center;
     font-family: 'Open Sans', sans-serif;
-    
+     background-image: url(http://img.freepik.com/free-photo/beautiful-landscape-in-underwater_1360-108.jpg);
+}
+
+img {
+   
+    width: 250px;
+}
+
+h1{
+    font-size: 30px;
 }
